@@ -1,4 +1,4 @@
-# Olá, eu sou a Rebeca Teotonio 👋
+# Olá, sou Rebeca Teotonio 👋
 
 ### Application Security Engineer | Java Backend Developer | DevSecOps
 
