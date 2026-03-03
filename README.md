@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="ChatGPT Image 3 de mar  de 2026, 14_26_14" src="https://github.com/user-attachments/assets/b3aad644-45f0-478a-a4b8-149c26311d63" />
+<img width="1536" height="661" alt="ChatGPT Image 3 de mar  de 2026, 14_26_14" src="https://github.com/user-attachments/assets/800d6425-208e-4cd5-8be0-faef46b32197" />
+
 
 
 Sou profissional com foco em Application Security (AppSec) e desenvolvimento back-end, unindo segurança e engenharia de software para construir aplicações robustas, escaláveis e seguras desde a concepção.
