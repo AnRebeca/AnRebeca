@@ -1,75 +1,100 @@
-# Olá, sou Rebeca Teotonio 👋
+# 👩‍💻 Rebeca Teotonio  
+### 🚀 Backend Developer | Java • Spring Boot • Microsservices
 
-### Application Security Engineer | Java Backend Developer | DevSecOps
-
-Sou profissional com foco em Application Security (AppSec) e desenvolvimento back-end, unindo segurança e engenharia de software para construir aplicações robustas, escaláveis e seguras desde a concepção.
-
-Atuo com Secure Software Development Lifecycle (SSDLC), aplicando Security by Design, modelagem de ameaças, gestão de riscos e mitigação de vulnerabilidades ao longo de todo o ciclo de desenvolvimento. Tenho experiência prática com SAST, DAST e SCA, revisão de código segura e implementação de controles baseados em OWASP Top 10, OWASP ASVS e OWASP SAMM.
-
-No desenvolvimento, trabalho principalmente com Java, aplicando princípios de POO, Clean Code e boas práticas arquiteturais. Utilizo Spring Boot, Spring Framework, Spring Data JPA, Spring Security, construção de APIs REST, microsserviços e programação reativa com WebFlux.
-
-Tenho experiência em ambientes modernos de engenharia com DevSecOps, integração e entrega contínua (CI/CD), segurança em pipelines, containers com Docker e orquestração com Kubernetes. Também atuo com mensageria (Kafka e RabbitMQ), sistemas distribuídos e observabilidade (logs e métricas).
-
-Possuo conhecimento em bancos de dados relacionais (PostgreSQL, MySQL), SQL, NoSQL (MongoDB) e arquitetura de software segura, além de atuação em cloud computing com Amazon Web Services (AWS) e Microsoft Azure.
-
-Meu objetivo é fortalecer a cultura de segurança nas equipes, atuar como Security Champion e contribuir para a construção de aplicações resilientes, escaláveis e protegidas contra ameaças modernas.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=800&lines=Backend+Developer+Java+%7C+Spring+Boot;Arquitetura+de+Microsserviços;APIs+Escaláveis+e+Performáticas;Clean+Code+%7C+DevOps+%7C+Cloud" />
+</p>
 
 ---
 
-## 🛡️ Especialidades em Application Security (AppSec)
+## 🚀 Sobre mim
 
-Tenho vasta experiência na implementação e gestão do ciclo de vida de desenvolvimento seguro (**SSDLC**):
-
-* **Frameworks & Standards:** OWASP Top 10, ASVS e SAMM.
-* **Análise Técnica:** Execução de SAST, DAST, SCA e Revisão de Código Segura.
-* **Modelagem de Ameaças:** Identificação de riscos e mitigação preventiva.
-* **Cultura de Segurança:** Atuação como Security Champion e fortalecimento da cultura DevSecOps.
-* **Segurança em Cloud:** Implementação de controles em ambientes AWS e Azure.
+Sou desenvolvedora backend especializada em Java e Spring Boot, com experiência no desenvolvimento de aplicações robustas, escaláveis e orientadas a boas práticas de engenharia de software.
+Atuo na implementação de funcionalidades a partir de requisitos de negócio, correção e prevenção de bugs, além de contribuir ativamente para a qualidade do código por meio de testes automatizados e revisões técnicas. Possuo sólida base em orientação a objetos, versionamento com Git e experiência na construção e consumo de APIs REST, garantindo integração eficiente entre sistemas.
+Tenho experiência no desenvolvimento e evolução de microsserviços com Spring, trabalhando com arquiteturas distribuídas e sistemas mais complexos. No meu dia a dia, aplico conceitos como CI/CD, Docker, mensageria, cache e bancos de dados poliglotas, sempre focando em performance, escalabilidade e manutenibilidade.
+Participo de decisões técnicas, avaliando trade-offs e propondo soluções eficazes alinhadas aos objetivos do negócio. Também atuo com uma visão mais estratégica, contribuindo para decisões de arquitetura e desempenho de sistemas. Tenho experiência na concepção de soluções end-to-end, considerando aspectos como segurança, observabilidade e escalabilidade, além de acompanhar métricas e propor melhorias contínuas. Busco constantemente evoluir como profissional, mantendo-me atualizada com as melhores práticas e tecnologias do mercado, e contribuindo com soluções de alto impacto em ambientes colaborativos e orientados a resultados.
 
 ---
 
-## 💻 Tech Stack & Engenharia de Software
+## 🧠 Expertise
 
-No desenvolvimento backend, foco em sistemas distribuídos e alta disponibilidade utilizando o ecossistema Java:
-
-* **Linguagens & Frameworks:** Java, Spring Boot, Spring Security, Spring Data JPA e WebFlux (Programação Reativa).
-* **Arquitetura:** Microsserviços, Clean Code, POO, APIs RESTful (Swagger/OpenAPI).
-* **Infraestrutura & DevOps:** Docker, Kubernetes, CI/CD Pipelines (Security Gates).
-* **Mensageria & Dados:** Kafka, RabbitMQ, PostgreSQL, MySQL e MongoDB.
-* **Monitoramento:** Observabilidade (Logs e Métricas) para detecção de incidentes.
+✔ Desenvolvimento backend com Java e Spring  
+✔ Criação e consumo de APIs REST  
+✔ Arquitetura de microsserviços  
+✔ Sistemas distribuídos e escaláveis  
+✔ Testes automatizados e qualidade de código  
+✔ CI/CD e cultura DevOps  
+✔ Observabilidade e monitoramento  
+✔ Segurança de APIs  
 
 ---
 
-### 🛠 Tecnologias e Habilidades
+## 🛠️ Tech Stack
 
-**Back-end & Linguagens**
+### 💻 Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white)
 
-**Segurança (AppSec)**
-![AppSec](https://img.shields.io/badge/AppSec-000000?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-2496ED?style=for-the-badge&logo=githubactions&logoColor=white)
+---
 
-**Infraestrutura & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge)
+
+---
+
+### 🌐 APIs & Microsserviços
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge)
+
+---
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Dados & Mensageria**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-## 📫 Vamos nos conectar?
-
-* **E-mail:** becateotonio3@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/rebeca-teotonio-a1a339233/
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge)
 
 ---
-"Segurança não é um produto, é um processo."
 
+### 📩 Mensageria
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+### 🔍 Qualidade & Arquitetura
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge)
+![Arquitetura](https://img.shields.io/badge/Software_Architecture-000000?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-000000?style=for-the-badge)
+
+
+## 🧭 Filosofia de Engenharia
+
+> “Código não é apenas para funcionar — é para ser entendido, escalado e evoluído.”
+
+- Foco em **manutenibilidade e escalabilidade**
+- Decisões baseadas em **trade-offs técnicos**
+- Entrega contínua de valor
+- Qualidade acima de quantidade
+
+---
+
+## 🎯 Objetivo
+
+Atuar em projetos desafiadores, contribuindo com **soluções backend de alto impacto**, arquitetura sólida e sistemas escaláveis.
+
+><
 
 
 
