@@ -9,10 +9,9 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedora backend especializada em Java e Spring Boot, com experiência no desenvolvimento de aplicações robustas, escaláveis e orientadas a boas práticas de engenharia de software.
-Atuo na implementação de funcionalidades a partir de requisitos de negócio, correção e prevenção de bugs, além de contribuir ativamente para a qualidade do código por meio de testes automatizados e revisões técnicas. Possuo sólida base em orientação a objetos, versionamento com Git e experiência na construção e consumo de APIs REST, garantindo integração eficiente entre sistemas.
-Tenho experiência no desenvolvimento e evolução de microsserviços com Spring, trabalhando com arquiteturas distribuídas e sistemas mais complexos. No meu dia a dia, aplico conceitos como CI/CD, Docker, mensageria, cache e bancos de dados poliglotas, sempre focando em performance, escalabilidade e manutenibilidade.
-Participo de decisões técnicas, avaliando trade-offs e propondo soluções eficazes alinhadas aos objetivos do negócio. Também atuo com uma visão mais estratégica, contribuindo para decisões de arquitetura e desempenho de sistemas. Tenho experiência na concepção de soluções end-to-end, considerando aspectos como segurança, observabilidade e escalabilidade, além de acompanhar métricas e propor melhorias contínuas. Busco constantemente evoluir como profissional, mantendo-me atualizada com as melhores práticas e tecnologias do mercado, e contribuindo com soluções de alto impacto em ambientes colaborativos e orientados a resultados.
+Sou desenvolvedora backend especializada em Java e Spring Boot, com experiência na criação de aplicações robustas, escaláveis e bem estruturadas. Atuo no desenvolvimento de APIs e microsserviços, aplicando boas práticas, testes automatizados e versionamento com Git.
+
+Trabalho com arquiteturas distribuídas, utilizando tecnologias como Docker, CI/CD, mensageria e bancos de dados diversos, sempre focando em performance, qualidade e escalabilidade. Também participo de decisões técnicas e de arquitetura, contribuindo com soluções eficientes alinhadas aos objetivos do negócio.
 
 ---
 
@@ -94,7 +93,7 @@ Participo de decisões técnicas, avaliando trade-offs e propondo soluções efi
 
 Atuar em projetos desafiadores, contribuindo com **soluções backend de alto impacto**, arquitetura sólida e sistemas escaláveis.
 
-><
+
 
 
 
